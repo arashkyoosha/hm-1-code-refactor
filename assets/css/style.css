@@ -1,14 +1,22 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* Selector to change the body background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Paragraph selector */
+p {
+    font-size: 16px;
+}
 
+/* Header starts here */
 
 header {
     padding: 20px;
@@ -26,8 +34,10 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Header ends here */
 
 
+/* Navigation starts here */
 
 nav {
     padding-top: 15px;
@@ -48,14 +58,10 @@ nav a {
     text-decoration: none;
 }
 
+/* Navigation ends here */
 
 
-p {
-    font-size: 16px;
-}
-
-
-
+/* Hero section starts here */
 
 .hero {
     height: 800px;
@@ -66,6 +72,9 @@ p {
     background-position: center;
 }
 
+/* Hero section ends here */
+
+/* Main starts here */
 
 main {
     width: 75%;
@@ -84,7 +93,7 @@ main {
 }
 
 
-.search-engine-optimization {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,53 +102,19 @@ main {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Main ends here */
 
 
-
+/* Aside starts here */
 
 aside {
     margin-right: 20px;
@@ -168,7 +143,11 @@ aside {
     max-width: 150px;
 }
 
+/* Aside ends here */
 
+
+
+/* Footer starts here*/
 
 footer {
     padding: 30px;
@@ -180,3 +159,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Footer ends here*/
