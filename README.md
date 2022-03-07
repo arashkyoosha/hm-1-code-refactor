@@ -9,5 +9,5 @@ Link below is the live Githut page:
 https://arashkyoosha.github.io/hm-1-code-refactor/
 
 
-![Top part](.\assets\screenshots\screenshot1.png)
-![Bottom part](.\assets\screenshots\screenshot2.png)
+![Top part](./assets/screenshots/screenshot1.png)
+![Bottom part](./assets/screenshots/screenshot2.png)
