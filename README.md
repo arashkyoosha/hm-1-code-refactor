@@ -9,5 +9,5 @@ Link below is the live Githut page:
 https://arashkyoosha.github.io/hm-1-code-refactor/
 
 
-![Alt text](assets\screenshots\screenshot1.png?raw=true "Optional Title")
-![Alt text](assets\screenshots\screenshot2.png?raw=true "Optional Title")
+![Top part](assets\screenshots\screenshot1.png?raw=true "Optional Title")
+![Bottom part](assets\screenshots\screenshot2.png?raw=true "Optional Title")
